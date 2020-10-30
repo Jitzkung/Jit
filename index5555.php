@@ -5,8 +5,8 @@
   <body>
     <h1>My First Heading</h1>
     <p>My First Paragraph</p>
-    <img src="ha2(1).jpg">
-    <img src="ha2(2).jpg">
+    <img src="https://lh3.googleusercontent.com/t6c5DhLuk8foRTMRB8D1VzRhiV3BeEK4w_q_rHcCnNYrIPrUsoyn5n8ldMSQISS49g=w412-h220-rw">
+    <img src="https://sport.mthai.com/app/uploads/2010/09/95.jpg">
     <br>
     <a href="http://www.google.com">This is a Link</a>
     <p>ผู้จัดการสองคนในยุค ไอเอ็มเอฟ ร่วมกันจ้างเลขาฯ สาวสวยคนเดียว
