@@ -3,8 +3,8 @@
     <title>จิตริน อุทัยรัศมี (จิต) 63070018</title>
   </head>
   <body>
-    <h1>My First Heading</h1>
-    <p>My First Paragraph</p>
+    <h1>จิตริน อุทัยรัศมี (จิต) 63070018</h1>
+    <p>เรื่องฮาๆ</p>
     <img src="https://lh3.googleusercontent.com/t6c5DhLuk8foRTMRB8D1VzRhiV3BeEK4w_q_rHcCnNYrIPrUsoyn5n8ldMSQISS49g=w412-h220-rw">
     <img src="https://sport.mthai.com/app/uploads/2010/09/95.jpg">
     <br>
